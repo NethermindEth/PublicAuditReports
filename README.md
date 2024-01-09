@@ -1,5 +1,5 @@
 
-![NM_Secuirty_Horizontal_Light_1_1_50](https://github.com/NethermindEth/PublicAuditReports/assets/114106639/5606ec9a-346d-4932-8b7d-2e48c198b8f4)
+![NS_Logo](https://github.com/NethermindEth/PublicAuditReports/assets/114106639/637075e6-501c-4350-be8f-6e2afc38b136)
 
 
 Here, you can find the smart contract audit reports carried out by Nethermind Security, the security arm of Nethermind. 
