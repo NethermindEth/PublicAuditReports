@@ -8,6 +8,18 @@ tools when performing security audits on Solidity and Cairo smart contracts.
 
 More info: https://www.nethermind.io/smart-contract-audits
 
+## Audit Methodology
+
+Our audit process is designed to identify vulnerabilities and ensure the robustness of smart contracts. This involves:
+
+- **Manual Code Review**: Our security experts review the code to catch logic errors, code quality issues, and known vulnerabilities.
+  
+- **Automated Analysis**: We utilise our proprietary tools to analyse code for vulnerabilities.
+  
+- **Threat Modeling**: We evaluate potential attack vectors and assess the security of business logic and key functions.
+  
+- **Report Generation and Recommendations**: Each audit includes detailed findings, categorised by severity, and actionable recommendations to enhance security.
+
 ## Legend
 
 | S.no | Name           | Description                                                                                                                                                           |
@@ -25,4 +37,3 @@ More info: https://www.nethermind.io/smart-contract-audits
 - [Twitter](https://x.com/NethermindSec)
 - [Discord](https://discord.com/invite/GXJFaYk)
 - [LinkedIn](https://www.linkedin.com/company/nethermind/)
-
